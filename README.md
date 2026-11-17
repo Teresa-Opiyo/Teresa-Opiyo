@@ -30,8 +30,3 @@ English (native), Swahili (native), German (B1, improving)
 
 ## Get in touch
 Email: [tessaakumu@yahoo.com](mailto:tessaakumu@yahoo.com)
-The links to the projects won’t work until you create those repositories, and that’s fine for now.
-After you commit, rename the repository so this README shows on your profile page:
-Click Settings (the tab with the gear at the top of the repository page).
-In the “Repository name” box, replace ReadMe with Teresa-Opiyo and click Rename.
-Open https://github.com/Teresa-Opiyo. The README should now appear at the top of your profile.
